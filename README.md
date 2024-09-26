@@ -5,3 +5,5 @@ This is a basic foundation of a market place that is intended to link both front
 1. pip install mysql-connector-python
 2. install mysql workbench (Database)
 3. pip install flask
+
+Run the app.py file to run the web app 
